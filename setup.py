@@ -2,19 +2,18 @@ from setuptools import setup, find_packages
 
 setup(
     name="py-graph-imputation-MLO",
-    version="0.1.0",
+    version="0.1.2",
     description="",
     author="Regev Yehezkel Imra",
     author_email="regevel2006@gmail.com",
     license="MIT",
-    packages=find_packages(where="src"),
-    package_dir={"": "src"},
+    packages=find_packages(),
     install_requires=[
         "py-graph-imputation",
         "cython==0.29.32",
         "numpy>=1.20.2",
         "pandas",
-        "tqdm"
+        "tqdm",
     ],
     classifiers=[
         "Programming Language :: Python :: 3",

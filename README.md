@@ -31,7 +31,7 @@ These dependencies will be installed automatically when you install the package.
 To run the imputation process, use the `RunGrim.py` script. You can configure the process using a JSON configuration file. Here is an example of how to run the script:
 
 ```bash
-python src/py-graph-imputation-MLO/RunGrim.py
+python RunGrim.py
 ```
 
 ### Configuration
