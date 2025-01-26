@@ -28,10 +28,10 @@ These dependencies will be installed automatically when you install the package.
 
 ### Running the Imputation
 
-To run the imputation process, use the `RunGrim.py` script. You can configure the process using a JSON configuration file. Here is an example of how to run the script:
+To run the imputation process, use the `run_grim.py` script. You can configure the process using a JSON configuration file. Here is an example of how to run the script:
 
 ```bash
-python RunGrim.py
+python run_grim.py
 ```
 
 ### Configuration

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "py-graph-imputation-MLO"
-version = "0.1.2"
+version = "0.1.5"
 description = ""
 authors = [
   { name = "Regev Yehezkel Imra", email = "regevel2006@gmail.com" }

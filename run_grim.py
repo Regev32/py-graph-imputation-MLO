@@ -15,8 +15,8 @@ from filter_by_rest import change_output_by_extra_gl
 from graph_generation.generate_hpf import produce_hpf
 from grim.grim import graph_freqs
 from grim.grim import impute
-from filter_top_3 import change_donor_file
-from filter_by_rest import change_output_by_extra_gl
+from py_graph_imputation_mlo.filter_top_3 import change_donor_file
+from py_graph_imputation_mlo.filter_by_rest import change_output_by_extra_gl
 
 
 
